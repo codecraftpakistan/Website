@@ -1,4 +1,4 @@
-import{c as l,j as e,m as s,B as i,A as c}from"./index-CgMxuqZ_.js";import{M as m}from"./map-pin-DSQP_SyS.js";import{C as d}from"./clock-DtAtGplE.js";const p=l("Briefcase",[["path",{d:"M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16",key:"jecpp"}],["rect",{width:"20",height:"14",x:"2",y:"6",rx:"2",key:"i6l2r4"}]]),x=[{title:"Flutter Developer",type:"Contract",location:"Remote",experience:"1+ years",description:"Develop cross-platform mobile applications using Flutter and Dart."}],g=()=>{const o=t=>{const a=`Application: ${t.title}`,n=`Hello,
+import{c as l,j as e,m as s,B as i,A as c}from"./index-C5AmOOX-.js";import{M as m}from"./map-pin-B404a6SE.js";import{C as d}from"./clock-BLXxWxtE.js";const p=l("Briefcase",[["path",{d:"M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16",key:"jecpp"}],["rect",{width:"20",height:"14",x:"2",y:"6",rx:"2",key:"i6l2r4"}]]),x=[{title:"Flutter Developer",type:"Contract",location:"Remote",experience:"1+ years",description:"Develop cross-platform mobile applications using Flutter and Dart."}],g=()=>{const o=t=>{const a=`Application: ${t.title}`,n=`Hello,
 
 I would like to apply for the "${t.title}" position.
 
