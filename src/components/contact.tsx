@@ -176,8 +176,8 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Office</h4>
                   <p className="text-muted-foreground">
-                    Mac Lab Uet Jallozai<br />
-                    Nowshehra, Pakistan
+                    University Road<br />
+                    Peshawar, Pakistan
                   </p>
                 </div>
               </div>
