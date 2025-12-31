@@ -11,6 +11,13 @@ const openings = [
     experience: '1+ years',
     description: 'Develop cross-platform mobile applications using Flutter and Dart.',
   },
+  {
+    title: 'Full Stack Developer',
+    type: 'Full-time',
+    location: 'Remote',
+    experience: '1+ years',
+    description: 'Build and maintain web applications using MongoDB, Express, React, and Node.js.',
+  },
   /*{
     title: 'Senior React Developer',
     type: 'Full-time',
